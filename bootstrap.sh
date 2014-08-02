@@ -26,4 +26,3 @@ update-alternatives --set javac /usr/lib/jvm/jdk1.7.0/bin/javac
 update-alternatives --set javaws /usr/lib/jvm/jdk1.7.0/bin/javaws 
 
 mvn tomcat:run-war &
-
